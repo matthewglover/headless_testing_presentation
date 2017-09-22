@@ -22,3 +22,11 @@
 # Monocle
 - "provides windowing functionality and access to native graphics for simple embedded systems that do not have an underlying window system"
 - `gradle -Pheadless=true test`
+- Adding .travis.yml configuration
+---
+# More relevant example
+- DOM testing
+- PhantomJS (old version of JavaScript)
+- Chrome Headless (since April 2017)
+- Node/JSDOM
+---
