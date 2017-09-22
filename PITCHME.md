@@ -4,7 +4,6 @@
 # A Simple Console App
 - Simple Tests
 - Side Effects limited to console read/write
-- Streams
 ---
 # JavaFX
 - Big UI Framework
@@ -26,7 +25,7 @@
 ---
 # More relevant example
 - DOM testing
-- PhantomJS (old version of JavaScript)
+- PhantomJS (old version of JavaScript - no promises)
 - Chrome Headless (since April 2017)
 - Node/jsdom
----
+- Discrepancy between test and app environments
