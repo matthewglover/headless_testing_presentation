@@ -28,5 +28,5 @@
 - DOM testing
 - PhantomJS (old version of JavaScript)
 - Chrome Headless (since April 2017)
-- Node/JSDOM
+- Node/jsdom
 ---
